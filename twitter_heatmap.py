@@ -1,25 +1,4 @@
-#   ***************************MY_API_INFO***********************************************
-#   rguitar96_sentiment_analyzer
-#   Consumer Key (API Key)	HS38Z8lPuAiaOcogMVybFBtzR (manage keys and access tokens)
-#   Callback URL	None
-#   Sign in with Twitter	Yes
-#   App-only authentication	https://api.twitter.com/oauth2/token
-#   Request token URL	https://api.twitter.com/oauth/request_token
-#   Authorize URL	https://api.twitter.com/oauth/authorize
-#   Access token URL	https://api.twitter.com/oauth/access_token
-
-#   Consumer Key (API Key)	HS38Z8lPuAiaOcogMVybFBtzR
-#   Consumer Secret (API Secret)	fqNEDpXxoIoWUY4e7vDf3F3SYhm8qFNmqZiZOL5W77enWBcc1v
-#   Access Level	Read and write (modify app permissions)
-#   Owner	RGuitar96
-#   Owner ID	540079107
-
-#   Access Token	540079107-a6HSC1Ipm9LhagMSTiQyDpoEQjuq8ZG420dOUMC5
-#   Access Token Secret	zd1T13XKQ7DhVuEqBx540Y1SGnbkfu0NHdiWC1L16NOHY
-#   Access Level	Read and write
-#   Owner	RGuitar96
-#   Owner ID	540079107
-#   ***************************MY_API_INFO***********************************************
+#   Created by @RGuitar96 using @sethoscope heatmap and Tweepy library for the Twitter API
 
 #   Dependencies:
 #   pip install tweepy
