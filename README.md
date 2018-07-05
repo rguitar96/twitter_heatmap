@@ -1,5 +1,5 @@
 # twitter_heatmap
-#### Using Twitter API and @sethoscope heatmap generator for Python.
+#### Using Twitter API and @sethoscope heatmap generator for Python 3.6.
 
 This project aims to generate a file containing a list of tweets within a given region and a file containing all of their locations. We can then use the latter to generate a heatmap with @sethoscope utility (https://github.com/sethoscope/heatmap).
 
